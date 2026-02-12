@@ -40,7 +40,7 @@ It uses GraphRAG to extract relevant information from multiple sources, fetching
 | Notion          | OKR DB, Task DB  | MCP Notion    |
 | Knowledge Graph | search the right node/edges                   | MCP graphiti      |
 
-- Daily Notes: MyZettelkastenVault/Feleting Notes/09-Diary/
+- Daily Notes: ~/My vault/Archives/Daily contexts/
 - Notion OKR(Business Development OKR): https://www.notion.so/ease-teamspace/OKR-1a69fe64d759806a8576f8bae78108ae?source=copy_link
 - Notion Task DB: https://www.notion.so/ease-teamspace/1b29fe64d759808fb3b7cf2cea4cf26b?v=1b29fe64d7598022b262000c73919801&source=copy_link
 - Notion Action Items DB: https://www.notion.so/ease-teamspace/2ef9fe64d75980c19c1ce0163eeb7741?v=2ef9fe64d759805a8c25000cc2999848&source=copy_link
