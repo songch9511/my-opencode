@@ -2,7 +2,10 @@
 description: Context Engineer — specialized sub-agent for intelligent context retrieval
 mode: subagent
 tools:
-  mymcp_*: true
+  notion: true
+  obsidian: true
+  sequential-thinking: true
+  graphiti_*: true
   write: true
   edit: true
   bash: true
